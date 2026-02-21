@@ -1,5 +1,5 @@
 # Eai! Sou Matheus :)
-### 🎓 Cientista da Computação @ ICMC-USP 
+### 🎓 Ciências da Computação @ ICMC-USP 
 Estudante de graduação na Universidade de São Paulo
 
 ### Full Stack Dev | Java • JavaScript • Python • Php
