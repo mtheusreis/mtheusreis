@@ -2,7 +2,7 @@
 ### 🎓 Ciências da Computação @ ICMC-USP 
 Estudante de graduação na Universidade de São Paulo
 
-### Full Stack Dev | Java • JavaScript • Python • Php
+### Full Stack Dev | C • JavaScript • Python • Php
 
 ### 🔗 Conexões
 - 🌐 [Meu Site](https://datasixdev.com.br)
